@@ -1,0 +1,11 @@
+#define SECOND_ADDR     0x01C23000
+#define MINUTE_ADDR     0x01C23004
+#define HOUR_ADDR       0x01C23008
+#define DAY_ADDR        0x01C2300C
+#define MONTH_ADDR      0x01C23010
+#define YEAR_ADDR       0x01C23014
+#define KICK0_ADDR      0x01C2306C
+#define KICK1_ADDR      0x01C23070
+#define RTC_CTRL_ADDR   0x01C23040
+#define KEY0            0x83E70B13
+#define KEY1            0x95A4F1E0
